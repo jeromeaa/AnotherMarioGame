@@ -1,2 +1,2 @@
 # AnotherMarioGame
-My first Unity project using Mario sprites
+My first Unity project using Super Mario sprites
